@@ -1,7 +1,11 @@
 ### Hi there 👋
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Sathvik-Chowdary-Veerapaneni/count.svg" />
+</p>
 <!--
 **Sathvik-Chowdary-Veerapaneni/Sathvik-Chowdary-Veerapaneni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
