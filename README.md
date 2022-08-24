@@ -11,7 +11,7 @@
 * Deep Learning 
 
 ## Recent Accomplishments 
-* [Discord Chat Application] (https://github.com/Sathvik-Chowdary-Veerapaneni/Money_Hunters_5030_Group_Project) 
+* [Discord Chat Application](https://github.com/Sathvik-Chowdary-Veerapaneni/Money_Hunters_5030_Group_Project) 
 
 
 ## What I do consistently ⏲️
