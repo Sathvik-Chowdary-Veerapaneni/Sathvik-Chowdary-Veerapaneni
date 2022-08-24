@@ -1,11 +1,20 @@
 ### Hello techie 👋, I'm Sathvik Chowdary.
 - 🔭 I’m currently pursuing **Masters Computer Science at Saint Louis University.**
 - 🌱 I’m currently learning **Machine Learning, Databases, and Big Data.**
-- 🧑‍💼 I’m looking for **Internships, USA.**
+- 🧑‍💼 I’m looking for **Machine Learning and Data Science Internships, USA.**
 - 💬 Tell me about your recent projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sathvik-chowdary-veerapaneni/)
 
+
+## Current Vehemence
+* Machine Learning 
+* Deep Learning 
+
+
+
 ## What I do consistently ⏲️
+* Learning new Machine Learning Algorithms and Frameworks. 
+* Statistics and Math Problems.
 * Solving and practise of competitive coding.
 * Full stack devlopment to build applications.
 * Learning the new curves **AI-->( ML, DL, Neural, NLP, DS ).**
