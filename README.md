@@ -10,7 +10,7 @@
 * Machine Learning 
 * Deep Learning 
 
-## Recent Accomplishments 
+## Recent Projects 
 * [Discord Chat Application](https://github.com/Sathvik-Chowdary-Veerapaneni/Money_Hunters_5030_Group_Project) 
 
 
@@ -33,7 +33,7 @@
  * **Don't announce moves, Confirm arrivals.**
 
 ## Connect 
-* Open to hear about project ideas [Linkedin](https://www.linkedin.com/in/sathvik-chowdary-veerapaneni/).
+* Open to hear from you [Linkedin](https://www.linkedin.com/in/sathvik-chowdary-veerapaneni/).
 
 <p align="center"> 
   Visitor count<br>
