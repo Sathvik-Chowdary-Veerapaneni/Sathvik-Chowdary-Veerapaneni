@@ -6,13 +6,13 @@ I am curently looking for Data Science, Machine Learning, or Data Realted Oppurt
 
 Expereince:
 Data Scientist | Mu Sigma Inc., Dec 2020 – Oct 2021 (10 Months)
-  •	Administered data-driven projects from conception to completion, resulting in a 20% increase in operational efficiency and enabling data-informed strategic decisions.
-  •	Coordinated with cross-functional teams to implement data solutions and drive business initiatives.
-  •	Optimized data collection procedures and automated data transformation workflows.
-  •	Mentored junior team members in data science methodologies and best practices.
-  •	Conducted comprehensive data analysis using advanced statistical methods, uncovering insights that contributed to a 10% increase in annual revenue.
-  •	Operated source control tools like Git for effective data and code management.
-  •	Streamlined and automated data collection procedures and data transformation workflows, reducing overall data processing time by 25%.
+  -	Administered data-driven projects from conception to completion, resulting in a 20% increase in operational efficiency and enabling data-informed strategic decisions.
+  -	Coordinated with cross-functional teams to implement data solutions and drive business initiatives.
+  -	Optimized data collection procedures and automated data transformation workflows.
+  -	Mentored junior team members in data science methodologies and best practices.
+  -	Conducted comprehensive data analysis using advanced statistical methods, uncovering insights that contributed to a 10% increase in annual revenue.
+  -	Operated source control tools like Git for effective data and code management.
+  -	Streamlined and automated data collection procedures and data transformation workflows, reducing overall data processing time by 25%.
 
 
 
