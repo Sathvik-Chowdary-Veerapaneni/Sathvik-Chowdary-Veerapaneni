@@ -1,4 +1,4 @@
-### Hello, Thankyou for visitng my profile.
+### Hello, Thankyou for visitng my profile, Here my [LinkedIn Profile](https://www.linkedin.com/in/sathvik-chowdary-veerapaneni/) to connect and talk.
 
 I am Sathvik Chowdary Veerapaneni, Graduating in December 2023.
 
