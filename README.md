@@ -1,35 +1,12 @@
-### Hello, Thankyou for visitng my profile, Here my [LinkedIn Profile](https://www.linkedin.com/in/sathvik-chowdary-veerapaneni/) to connect and talk.
+### Hello and welcome to my profile! 
 
-I am Sathvik Chowdary Veerapaneni, Graduating in December 2023.
+My name is **Sathvik Chowdary Veerapaneni**. I recently graduated with a GPA of **3.7/4.0** in **MS Computer Science**.
 
-I am curently looking for Data Science, Machine Learning, or Data Realted Oppurtunites either an Internship or New Grad Positions.
+I am currently open to both full-time and internship opportunities. 
 
-- Working on Projects and Aquaring more skills realted to Data Science and AI feild.
+I am open to exploring other roles that allow me to leverage my skills in technology and problem-solving.
 
-Currently, More enthusiast about the Data job roles, so not mentioning every skill and technology that i know.
-Naming few,
-- Creating and developing web applicatons, building pipleines for deployment.
+However, my enthusiasm is always open to learning and growing.
 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sathvik-chowdary-veerapaneni/) for further discussions.
 
-  
-
-
-
-
-
-
-
-<!--
-**Sathvik-Chowdary-Veerapaneni/Sathvik-Chowdary-Veerapaneni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
